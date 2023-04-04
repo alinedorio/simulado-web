@@ -5,3 +5,21 @@ header{
 div{
     text-align: center;
 }
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style: none;
+    height: 30px;
+}
+
+li{
+    font-weight: bolder;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
